@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+flask
+fpdf
+PyPDF2
+deep-translator
